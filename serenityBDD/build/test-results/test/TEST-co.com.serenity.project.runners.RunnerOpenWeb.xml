@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.serenity.project.runners.RunnerOpenWeb" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-17T02:07:41" hostname="DESKTOP-0CT8JI1" time="25.221">
+  <properties/>
+  <testcase name="validacion en la funcion del ID Card Elements" classname="co.com.serenity.project.runners.RunnerOpenWeb" time="25.221"/>
+  <system-out><![CDATA[21:07:41.511 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///H:/Andres%20Cruz/cursosAutomatizacion/Serenity/serenityBDD/src/test/resources/features/openweb.feature
+21:07:41.714 [Test worker] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+21:07:41.730 [Test worker] INFO   - Test Suite Started: Abrir una página web
+21:07:41.745 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///H:/Andres%20Cruz/cursosAutomatizacion/Serenity/serenityBDD/src/test/resources/features/openweb.feature
+21:07:41.761 [Test worker] INFO   - Test Suite Started: Abrir una página web
+21:07:41.869 [Test worker] INFO  i.c.core.plugin.SerenityReporter - Running feature from file:///H:/Andres%20Cruz/cursosAutomatizacion/Serenity/serenityBDD/src/test/resources/features/openweb.feature
+21:07:41.884 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+validacion en la funcion del ID Card Elements(abrir-una-página-web;validacion-en-la-funcion-del-id-card-elements)
+--------------------------------------------------------------------------------
+21:07:42.448 [Test worker] INFO  n.s.c.w.d.DriverProvider - Using WebDriverManager configuration for edge
+21:07:42.870 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 128.0.2739.79 (resolved driver for Edge 128)
+21:07:42.901 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Asus\.cache\selenium\msedgedriver\win64\128.0.2739.79\msedgedriver.exe
+21:08:05.556 [Test worker] INFO  c.c.s.p.stepdefinition.OpenWebStep - Web Tables
+21:08:06.048 [Test worker] INFO  c.c.s.p.q.ValidateElementsTextBtn - Web Tables
+21:08:06.386 [Test worker] INFO   - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+validacion en la funcion del ID Card Elements
+----------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[?[32m?[1m┌───────────────────────────────────────────────────────────────────────────────────┐?[0m
+?[32m?[1m│?[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Activate publishing with one of the following:                                    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Disable this message with one of the following:                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m└───────────────────────────────────────────────────────────────────────────────────┘?[0m
+]]></system-err>
+</testsuite>
